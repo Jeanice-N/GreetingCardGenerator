@@ -1,0 +1,22 @@
+{
+	"startup": 
+		{
+			"supType" : "Card Type",
+			"supPic" : "noimage.jpg",
+			"supMsg" : "Enter your message here..."
+		},
+	"types" : {
+		"typeChoices" : [
+			{ "txt" : "Happy Birthday!" },
+			{ "txt" : "Get Well Soon!" },
+			{ "txt" : "Thank You!" }
+		]
+	},
+	"pics" : {
+		"picChoices": [ 
+		{ "pic" : "birthday.jpg", "lbl" : "bday"		},
+		{ "pic" : "getwell.jpg", "lbl" : "gwell" },
+		{ "pic" : "thankyou.jpg", "lbl" : "tyou" }
+		]
+	}
+}

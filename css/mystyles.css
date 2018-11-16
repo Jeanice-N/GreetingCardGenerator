@@ -1,0 +1,63 @@
+body, .ui-btn, input, textarea, label, option {
+	font-family: "georgia";
+}
+
+.ui-block-a, .ui-block-b {
+	text-align:center;
+}
+
+#cardBack{
+	background-color: salmon;
+	background-image: url('../images/scroll.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 50px 50px 50px 50px;
+	height: 350px;
+}
+
+#cardType {
+	text-align:center;
+	color:navy;
+	font-weight:bold;
+	padding-top: 10px; 
+	height: 50px;
+	font-size: 1.5em;
+}
+
+#cardPic {
+
+}
+
+.mainImg {
+	height: 180px;
+	border-radius: 50px 0px 50px 0px;
+}
+
+label {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1.5em;
+	color: crimson;
+}
+
+#cardMsg {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+#ta {
+	text-align: center;
+	background-color: linen;
+	color: navy;
+}
+
+.ui-icon-face:after
+{
+	background-image: url("images/face.png");
+	background-size: 22px 22px;
+}
+.ui-icon-eye:after
+{
+	background-image: url("images/eye.png");
+	background-size: 22px 22px;
+}
